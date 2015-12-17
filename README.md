@@ -1,4 +1,4 @@
-us_cities_and_states
+US Cities and States 
 ====================
 
 Full list of US cities and states (almost 30k entries) formatted for your convenience:
