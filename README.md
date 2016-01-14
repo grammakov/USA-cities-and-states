@@ -3,15 +3,21 @@ US Cities, Counties and States
 
 Full list of US cities, states and counties (60k+ entries) formatted for your convenience:
 
+```
 City|State short name|State full name|County|City Alias Mixed Case
+```
 
 Example:
 
+```
 Bronx|NY|New York|BRONX|University Heights
+```
 
 *OR*
 
+```
 Gaines|PA|Pennsylvania|TIOGA|Manhattan
+```
 
 *61 states* total (including foreign and military):
 - Alabama
