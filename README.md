@@ -82,7 +82,7 @@ Gaines|PA|Pennsylvania|TIOGA|Manhattan
 - Marshall Islands
 - US Armed Forces Europe
 
-!!Data validity and information
+## Data validity and information
 
 This data had been taken from several sources and assembled in year 2014. So far the list had served me well in terms of accuracy. I am not planning on maintaining or updating this data anywhere in the future, so if you are willing to make any changes to the file feel more than welcome to send in a pull request. In fact it would've been really cool if someone could add:
 
