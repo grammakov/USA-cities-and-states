@@ -1,3 +1,5 @@
+Collecting this data would not be possible without the support of [SEOBOTS.io](https://seobots.io)👈
+
 US Cities, Counties and States 
 ====================
 
