@@ -1,4 +1,4 @@
-Collecting this data would not be possible without the support from <a href="https://seobots.io/" target="_blank">SEOBOTS.io</a>👈🤖
+Collecting this data would not be possible without the support from <a href="https://botster.io/" target="_blank">Botster.io</a>👈🤖
 
 US Cities, Counties and States 
 ====================
